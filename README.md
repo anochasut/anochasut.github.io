@@ -1,6 +1,6 @@
 You are at anochasut.github.io
 # About me.
-I am an independent scholar. Currently, I am pursuing AI courses at the School of Computing at the National University of Singapore, where I am further expanding my expertise in data analysis, machine learning, and project-based risk management. Some of my key term projects include:
+I am an AI enthusiast. I graduated from the School of Computing at the National University of Singapore, where I expanded my expertise in data analysis and machine learning. Some of my key term projects include:
 
 * Text Mining: Sentiment analysis of r/WallStreetBets [GitHub Pages](https://github.com/aniruok9/CS5246-Text-Mining-project)
 * AI Planning and Decision Making: Simulation of urban mobility in Singapore [Forked from Lucus Alegre GitHub Pages](https://github.com/anochasut/sumo-rl) and [GitHub Pages](https://github.com/achmadyogi/SumoProject)
