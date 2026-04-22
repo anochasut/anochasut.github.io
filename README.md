@@ -1,7 +1,7 @@
 You are at anochasut.github.io
 
 # Hi, I'm Anocha.
-I am a speech researcher and AI engineer specializing in Thai TTS and Cross-Lingual Transfer. I am an active member of the ISCA reviewer community.
+I am a speech researcher and AI engineer specializing in Thai TTS and Cross-Lingual Transfer. I am an active member of the ISCA community.
 
 ### Recent Projects
 *Speech & Audio Intelligence:
