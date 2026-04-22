@@ -4,7 +4,7 @@ You are at anochasut.github.io
 I am a speech researcher and AI engineer specializing in Thai TTS and Cross-Lingual Transfer. I am an active member of the ISCA community.
 
 ### Recent Projects
-*Speech & Audio Intelligence:
+* Speech & Audio Intelligence:
   * Telegram VoiceClip Emotion Detection: Real-time emotion recognition from Telegram voice messages.
   * Depression Detection in Voice: Analyzing vocal biomarkers to identify signs of depression.
 
